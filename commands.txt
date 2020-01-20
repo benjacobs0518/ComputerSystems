@@ -1,0 +1,2 @@
+g++ -std=c++11 HW-7.cpp MainHW7.cpp -o HW7
+./Filename and anything that needs to be passed through

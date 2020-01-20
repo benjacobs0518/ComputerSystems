@@ -1,0 +1,35 @@
+/Users/BenJacobs/Documents/lab-1/as1prob3.cpp:67:24: error: use of undeclared identifier 'test_2'; did you mean 'test_1'?
+  cout << "Title: " << test_2.getTitle() << " Year: " << test_2.getYear() << " Rating: " << test_2.getRating()<< endl;
+                       ^~~~~~
+                       test_1
+/Users/BenJacobs/Documents/lab-1/as1prob3.cpp:62:9: note: 'test_1' declared here
+  Movie test_1;
+        ^
+/Users/BenJacobs/Documents/lab-1/as1prob3.cpp:67:58: error: use of undeclared identifier 'test_2'; did you mean 'test_1'?
+  cout << "Title: " << test_2.getTitle() << " Year: " << test_2.getYear() << " Rating: " << test_2.getRating()<< endl;
+                                                         ^~~~~~
+                                                         test_1
+/Users/BenJacobs/Documents/lab-1/as1prob3.cpp:62:9: note: 'test_1' declared here
+  Movie test_1;
+        ^
+/Users/BenJacobs/Documents/lab-1/as1prob3.cpp:67:93: error: use of undeclared identifier 'test_2'
+  cout << "Title: " << test_2.getTitle() << " Year: " << test_2.getYear() << " Rating: " << test_2.getRating()<< endl;
+                                                                                            ^
+/Users/BenJacobs/Documents/lab-1/as1prob3.cpp:68:24: error: use of undeclared identifier 'test_3'; did you mean 'test_1'?
+  cout << "Title: " << test_3.getTitle() << " Year: " << test_3.getYear() << " Rating: " << test_3.getRating()<< endl;
+                       ^~~~~~
+                       test_1
+/Users/BenJacobs/Documents/lab-1/as1prob3.cpp:62:9: note: 'test_1' declared here
+  Movie test_1;
+        ^
+/Users/BenJacobs/Documents/lab-1/as1prob3.cpp:68:58: error: use of undeclared identifier 'test_3'; did you mean 'test_1'?
+  cout << "Title: " << test_3.getTitle() << " Year: " << test_3.getYear() << " Rating: " << test_3.getRating()<< endl;
+                                                         ^~~~~~
+                                                         test_1
+/Users/BenJacobs/Documents/lab-1/as1prob3.cpp:62:9: note: 'test_1' declared here
+  Movie test_1;
+        ^
+/Users/BenJacobs/Documents/lab-1/as1prob3.cpp:68:93: error: use of undeclared identifier 'test_3'
+  cout << "Title: " << test_3.getTitle() << " Year: " << test_3.getYear() << " Rating: " << test_3.getRating()<< endl;
+                                                                                            ^
+6 errors generated.
